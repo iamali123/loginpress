@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="518" viewBox="0 0 260 518">
+  <g id="Group_367" data-name="Group 367" transform="translate(-1184 -2685.301)">
+    <path id="Rectangle_322" data-name="Rectangle 322" d="M130,0h0A130,130,0,0,1,260,130V260a0,0,0,0,1,0,0H130A130,130,0,0,1,0,130v0A130,130,0,0,1,130,0Z" transform="translate(1444 2943.302) rotate(90)" fill="#ff5670"/>
+    <path id="Rectangle_319" data-name="Rectangle 319" d="M0,0H260a0,0,0,0,1,0,0V5A255,255,0,0,1,5,260H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(1444 2685.301) rotate(90)" fill="#fdb400"/>
+    <rect id="Rectangle_320" data-name="Rectangle 320" width="260" height="260" transform="translate(1444 2685.301) rotate(90)" fill="#fdb400" opacity="0.3"/>
+  </g>
+</svg>

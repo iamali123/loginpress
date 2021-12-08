@@ -1,0 +1,87 @@
+/* Money back Guarantee */
+.guarantee {
+    padding: 93px 0 20px;
+}
+.guarantee-info {
+    text-align: center;
+}
+.guarantee-info h5 {
+    max-width: 1090px;
+    margin: 0 auto 18px;
+    color: var(--primary-purple);
+}
+.guarantee-desc p.banner-paragraph {
+    max-width: 835px;
+    margin: 0 auto;
+    color: var(--secondary-purple-light);
+}
+.money-back-guarantee {
+    padding: 66px 0 90px;
+    position: relative;
+}
+.money-back-before{
+    position: absolute;
+    top: -10px;
+    left: 44px;
+    max-width: 40px;
+}
+.money-back-details {
+    padding: 63px 50px 59px;
+    display: grid;
+    grid-template-columns: minmax(auto, 183px) auto;
+    grid-gap: 51px;
+    max-width: 970px;
+    margin: 0 auto;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
+    border-radius: 5px;
+    align-items: center;
+    background-color: var(--white);
+    position: relative;
+    z-index: 1;
+}
+.money-back-thumbnail {
+    max-width: 183px;
+}
+.money-back-after {
+    max-width: 186px;
+    position: absolute;
+    bottom: -16px;
+    right: -4px;
+    z-index: -1;
+}
+.money-back-info h4 {
+    margin-bottom: 18px;
+}
+
+@media screen and (max-width: 1024px) {
+    .guarantee {
+        padding: 75px 0 0;
+    }
+    .money-back-after{
+        max-width: 20vw;
+        bottom: 0;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .guarantee {
+        padding: 60px 0 0;
+    }
+    .money-back-details {
+        grid-template-columns: auto;
+        justify-content: center;
+        text-align: center;
+        padding: 30px;
+        grid-gap: 30px;
+    }
+    .money-back-info h4 {
+        margin-bottom: 10px;
+    }
+    .money-back-thumbnail{
+        margin: 0 auto;
+    }
+    .money-back-guarantee {
+        padding: 40px 0;
+        position: relative;
+    }
+}

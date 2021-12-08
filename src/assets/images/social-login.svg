@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="social_login" data-name="social login" transform="translate(-636 -502)">
+    <g id="Socia_icons" data-name="Socia icons">
+      <rect id="Rectangle_406" data-name="Rectangle 406" width="10" height="10" rx="5" transform="translate(643 542)" fill="#3c50e0"/>
+      <rect id="Rectangle_407" data-name="Rectangle 407" width="10" height="10" rx="5" transform="translate(669 542)" fill="#ff5670"/>
+      <rect id="Rectangle_408" data-name="Rectangle 408" width="10" height="10" rx="5" transform="translate(656 542)" fill="#29c3ff"/>
+    </g>
+    <rect id="Rectangle_405" data-name="Rectangle 405" width="26" height="9" rx="2" transform="translate(648 528)" fill="#3c50e0"/>
+    <rect id="Rectangle_404" data-name="Rectangle 404" width="50" height="9" rx="2" transform="translate(636 515)" fill="#3c50e0" opacity="0.2"/>
+    <rect id="Rectangle_403" data-name="Rectangle 403" width="50" height="9" rx="2" transform="translate(636 502)" fill="#3c50e0" opacity="0.2"/>
+  </g>
+</svg>

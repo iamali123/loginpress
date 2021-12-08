@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="100" viewBox="0 0 210 100">
+  <g id="Icon" transform="translate(-268 -1652)">
+    <g id="big_captcha" data-name="big captcha" transform="translate(405.352 1674.946)">
+      <rect id="Rectangle_473" data-name="Rectangle 473" width="85" height="86" rx="5" transform="translate(-12.352 -15.946)" fill="#3c50e0" opacity="0.1"/>
+      <path id="XMLID_242_" d="M66.946,32.09a9.379,9.379,0,0,0-.063-1.334V5.545L59.9,12.531A31.119,31.119,0,0,0,11,13.42L22.431,24.977a15.26,15.26,0,0,1,4.636-5.207,13.542,13.542,0,0,1,8.7-2.858,2.53,2.53,0,0,1,1.08.191,14.852,14.852,0,0,1,11.621,6.858L40.4,32.026c10.224,0,21.782-.063,26.544.064" transform="translate(-5.65 -5.036)" fill="#3c50e0"/>
+      <path id="XMLID_241_" d="M32.053,1a9.379,9.379,0,0,0-1.334.064H5.509l6.985,6.985a31,31,0,0,0,.826,48.834L24.877,45.452a15.26,15.26,0,0,1-5.207-4.636,13.542,13.542,0,0,1-2.858-8.7A2.53,2.53,0,0,1,17,31.037a15.072,15.072,0,0,1,6.922-11.558l8.065,8.065c0-10.224-.064-21.782.064-26.544" transform="translate(-2 -5)" fill="#29c3ff"/>
+      <path id="XMLID_240_" d="M1,50a9.379,9.379,0,0,0,.064,1.334V76.544l6.985-6.985a31.119,31.119,0,0,0,48.9-.889L45.452,57.176a15.26,15.26,0,0,1-4.636,5.207,13.542,13.542,0,0,1-8.7,2.858,2.53,2.53,0,0,1-1.08-.191,15.06,15.06,0,0,1-11.494-6.922L27.608,50C17.32,50.063,5.763,50.063,1,50" transform="translate(-2 -22.883)" fill="#8495c2"/>
+    </g>
+    <g id="Arrow" transform="translate(10.168 28.999)">
+      <path id="Path_173" data-name="Path 173" d="M-16033.335-10442.239h-4.285l5,5.489,5-5.489Z" transform="translate(-10085.59 17720.621) rotate(90)" fill="#8495c2" stroke="#8495c2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_13" data-name="Line 13" x2="17" transform="translate(357.5 1688)" fill="none" stroke="#8495c2" stroke-linecap="round" stroke-width="4"/>
+    </g>
+    <g id="Group_99" data-name="Group 99" transform="translate(267.79 1652)">
+      <rect id="Rectangle_437" data-name="Rectangle 437" width="85" height="100" rx="2" transform="translate(0.21 0)" fill="#3c50e0"/>
+      <g id="Group_91" data-name="Group 91" transform="translate(6.332 15.306)">
+        <rect id="Rectangle_439" data-name="Rectangle 439" width="63" height="10" rx="1" transform="translate(4.878 12.694)" fill="#fff" opacity="0.9"/>
+        <rect id="Rectangle_468" data-name="Rectangle 468" width="63" height="10" rx="1" transform="translate(4.878 27.694)" fill="#fff" opacity="0.9"/>
+        <rect id="Rectangle_469" data-name="Rectangle 469" width="37" height="16" rx="1" transform="translate(17.878 42.694)" fill="#fff"/>
+        <rect id="Rectangle_470" data-name="Rectangle 470" width="16" height="4" rx="1" transform="translate(35.878 46.694)" fill="#515e81" opacity="0.3"/>
+        <rect id="Rectangle_471" data-name="Rectangle 471" width="7" height="3" rx="1" transform="translate(35.878 52.694)" fill="#515e81" opacity="0.3"/>
+        <rect id="Rectangle_472" data-name="Rectangle 472" width="7" height="3" rx="1" transform="translate(44.878 52.694)" fill="#515e81" opacity="0.3"/>
+        <rect id="Rectangle_441" data-name="Rectangle 441" width="48" height="13" rx="1" transform="translate(11.878 63.694)" fill="#ff5670"/>
+        <rect id="Rectangle_438" data-name="Rectangle 438" width="15" height="15" rx="4" transform="translate(28.878 -7.306)" fill="#ff5670"/>
+        <g id="Small_captcha" data-name="Small captcha" transform="translate(22.581 49.063)">
+          <path id="XMLID_242_2" data-name="XMLID_242_" d="M21.146,6.72a1.7,1.7,0,0,0-.012-.242V1.906L19.867,3.173A5.643,5.643,0,0,0,11,3.334l2.073,2.1a2.767,2.767,0,0,1,.841-.944,2.456,2.456,0,0,1,1.578-.518.459.459,0,0,1,.2.035,2.693,2.693,0,0,1,2.107,1.244L16.332,6.708c1.854,0,3.95-.012,4.814.012" transform="translate(-10.848 -5.088)" fill="#3c50e0"/>
+          <path id="XMLID_241_2" data-name="XMLID_241_" d="M6.631,1a1.7,1.7,0,0,0-.242.012H1.818L3.084,2.278a5.622,5.622,0,0,0,.15,8.856l2.1-2.073a2.767,2.767,0,0,1-.944-.841,2.456,2.456,0,0,1-.518-1.578.459.459,0,0,1,.035-.2,2.733,2.733,0,0,1,1.255-2.1L6.62,5.814c0-1.854-.012-3.95.012-4.814" transform="translate(-2 -5)" fill="#29c3ff"/>
+          <path id="XMLID_240_2" data-name="XMLID_240_" d="M1,50a1.7,1.7,0,0,0,.012.242v4.572l1.267-1.267a5.643,5.643,0,0,0,8.867-.161L9.061,51.3a2.767,2.767,0,0,1-.841.944,2.456,2.456,0,0,1-1.578.518.459.459,0,0,1-.2-.035,2.731,2.731,0,0,1-2.084-1.255L5.825,50c-1.866.012-3.961.012-4.825,0" transform="translate(-2 -48.357)" fill="#8495c2"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="652" height="538" viewBox="0 0 652 538">
+  <defs>
+    <filter id="Rectangle_436" x="0" y="305" width="346" height="233" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-color="#3c50e0" flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_436-2" x="0" y="102" width="346" height="233" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-2"/>
+      <feFlood flood-color="#3c50e0" flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_436-3" x="306" y="203" width="346" height="233" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-3"/>
+      <feFlood flood-color="#3c50e0" flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_436-4" x="306" y="0" width="346" height="233" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-4"/>
+      <feFlood flood-color="#3c50e0" flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Icon" transform="translate(-56 -1522)">
+    <g id="Login_Screen" data-name="Login Screen" transform="translate(-248 182)">
+      <g transform="matrix(1, 0, 0, 1, 304, 1340)" filter="url(#Rectangle_436)">
+        <rect id="Rectangle_436-5" data-name="Rectangle 436" width="286" height="173" rx="10" transform="translate(30 330)" fill="#fff"/>
+      </g>
+      <path id="Path_180" data-name="Path 180" d="M201.281,74.3l-51.818,48.317L64.031,38.24,0,106.165v46.988c-.031,3.324,3.914,8.777,9.137,8.835H276.027A9.983,9.983,0,0,0,286,152.7v-9.425Z" transform="translate(334 1680.976)" fill="#8a96ed" opacity="0.4"/>
+      <rect id="Rectangle_525" data-name="Rectangle 525" width="47" height="47" rx="23" transform="translate(440 1688)" fill="#ff5670" opacity="0.8"/>
+      <g id="Group_92" data-name="Group 92" transform="translate(525 1718.85)">
+        <g id="Group_91" data-name="Group 91">
+          <rect id="Rectangle_526" data-name="Rectangle 526" width="72" height="98" rx="3" transform="translate(-5 -11.85)" fill="#3c50e0" opacity="0.4"/>
+          <rect id="Rectangle_439" data-name="Rectangle 439" width="62" height="10" rx="1" transform="translate(0 28.15)" fill="#fff" opacity="0.9"/>
+          <rect id="Rectangle_440" data-name="Rectangle 440" width="62" height="10" rx="1" transform="translate(0 46.15)" fill="#fff" opacity="0.9"/>
+          <rect id="Rectangle_441" data-name="Rectangle 441" width="42" height="10" rx="1" transform="translate(10.002 65.15)" fill="#ff5670"/>
+          <rect id="Rectangle_438" data-name="Rectangle 438" width="20" height="20" rx="3" transform="translate(21.001 -0.85)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <g id="Login_Screen-2" data-name="Login Screen" transform="translate(-248 -23)">
+      <g transform="matrix(1, 0, 0, 1, 304, 1545)" filter="url(#Rectangle_436-2)">
+        <rect id="Rectangle_436-6" data-name="Rectangle 436" width="286" height="173" rx="10" transform="translate(30 127)" fill="#fff"/>
+      </g>
+      <g id="Group_92-2" data-name="Group 92" transform="translate(482.94 1738.998)">
+        <rect id="Rectangle_465" data-name="Rectangle 465" width="235" height="123" rx="3" transform="translate(-122.941 -42)" fill="#c3c9f8"/>
+        <g id="Group_91-2" data-name="Group 91" transform="translate(22 28)">
+          <rect id="Rectangle_439-2" data-name="Rectangle 439" width="63" height="10" rx="1" transform="translate(0.059 -15.998)" fill="#fff" opacity="0.9"/>
+          <rect id="Rectangle_440-2" data-name="Rectangle 440" width="63" height="10" rx="1" transform="translate(0.059 2.002)" fill="#fff" opacity="0.9"/>
+          <rect id="Rectangle_441-2" data-name="Rectangle 441" width="42" height="10" rx="1" transform="translate(11.059 20.002)" fill="#ff5670"/>
+          <rect id="Rectangle_438-2" data-name="Rectangle 438" width="21" height="21" rx="6" transform="translate(21.059 -46.998)" fill="#ff5670"/>
+        </g>
+      </g>
+      <g id="Group_98" data-name="Group 98" transform="translate(50 36.275)">
+        <path id="Rectangle_466" data-name="Rectangle 466" d="M3,0H117a0,0,0,0,1,0,0V123a0,0,0,0,1,0,0H3a3,3,0,0,1-3-3V3A3,3,0,0,1,3,0Z" transform="translate(310 1660.722)" fill="#e1e4ff"/>
+        <path id="Path_175" data-name="Path 175" d="M85.829,26.411l-24.9,21.894L25.714,16.586,0,39.176l.156,69.177a2.81,2.81,0,0,0,2.972,2.614H114.08a2.81,2.81,0,0,0,2.972-2.614L116.9,54.033Z" transform="translate(310 1672.755)" fill="#3c50e0"/>
+        <rect id="Rectangle_467" data-name="Rectangle 467" width="19" height="19" rx="9.5" transform="translate(372 1670.725)" fill="#ff5670"/>
+        <rect id="Rectangle_524" data-name="Rectangle 524" width="25" height="23" transform="translate(402 1760.725)" fill="#3c50e0"/>
+      </g>
+    </g>
+    <g id="Login_Screen-3" data-name="Login Screen" transform="translate(58 78)">
+      <g transform="matrix(1, 0, 0, 1, -2, 1444)" filter="url(#Rectangle_436-3)">
+        <rect id="Rectangle_436-7" data-name="Rectangle 436" width="286" height="173" rx="10" transform="translate(336 228)" fill="#fff"/>
+      </g>
+      <g id="Group_98-2" data-name="Group 98" transform="translate(50 36.275)">
+        <rect id="Rectangle_466-2" data-name="Rectangle 466" width="163.094" height="123" rx="4" transform="translate(310 1660.722)" fill="#e1e4ff"/>
+        <path id="Path_175-2" data-name="Path 175" d="M119.59,30.276,84.9,60.782l-49.073-44.2L0,48.062l-.215,59.364a3.915,3.915,0,0,0,4.141,3.642l155.028.023a3.915,3.915,0,0,0,4.141-3.642l-.217-38.688Z" transform="translate(310 1672.755)" fill="#3c50e0"/>
+        <rect id="Rectangle_467-2" data-name="Rectangle 467" width="19" height="19" rx="9.5" transform="translate(372 1680.725)" fill="#ff5670"/>
+        <rect id="Rectangle_524-2" data-name="Rectangle 524" width="25" height="23" transform="translate(402 1760.725)" fill="#3c50e0"/>
+      </g>
+      <g id="Group_92-3" data-name="Group 92" transform="translate(620.485 1747.998)">
+        <rect id="Rectangle_465-2" data-name="Rectangle 465" width="75" height="54" rx="3" transform="translate(-121.486 -0.998)" fill="#c3c9f8"/>
+        <g id="Group_91-3" data-name="Group 91" transform="translate(-115.858 -18.998)">
+          <rect id="Rectangle_439-3" data-name="Rectangle 439" width="63" height="10" rx="1" transform="translate(0.373 31)" fill="#fff" opacity="0.9"/>
+          <rect id="Rectangle_440-3" data-name="Rectangle 440" width="63" height="10" rx="1" transform="translate(0.373 49)" fill="#fff" opacity="0.9"/>
+          <rect id="Rectangle_441-3" data-name="Rectangle 441" width="32" height="10" rx="1" transform="translate(31.373 67)" fill="#ff5670"/>
+        </g>
+      </g>
+    </g>
+    <g id="Login_Screen-4" data-name="Login Screen" transform="translate(58 -123)">
+      <g transform="matrix(1, 0, 0, 1, -2, 1645)" filter="url(#Rectangle_436-4)">
+        <rect id="Rectangle_436-8" data-name="Rectangle 436" width="286" height="173" rx="10" transform="translate(336 25)" fill="#fff"/>
+      </g>
+      <g id="Group_92-4" data-name="Group 92" transform="translate(447.999 1715.678)">
+        <rect id="Rectangle_437" data-name="Rectangle 437" width="59" height="83" rx="2" transform="translate(0 0.322)" fill="#3c50e0"/>
+        <g id="Group_91-4" data-name="Group 91" transform="translate(4.222 9.554)">
+          <rect id="Rectangle_439-4" data-name="Rectangle 439" width="49" height="10" rx="1" transform="translate(0.779 24.768)" fill="#fff" opacity="0.9"/>
+          <rect id="Rectangle_440-4" data-name="Rectangle 440" width="49" height="10" rx="1" transform="translate(0.779 39.768)" fill="#fff" opacity="0.9"/>
+          <rect id="Rectangle_441-4" data-name="Rectangle 441" width="31" height="10" rx="1" transform="translate(9.779 54.768)" fill="#ff5670"/>
+          <rect id="Rectangle_438-3" data-name="Rectangle 438" width="17" height="17" rx="8.5" transform="translate(16.779 -0.231)" fill="#ff5670"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

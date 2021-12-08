@@ -1,0 +1,20 @@
+.loader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 10000;
+  right: 0;
+  background: rgb(232 241 255 / 100%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  bottom: 0;
+}
+.loader:after{
+background: url('../assets/images/loader.svg') no-repeat;
+  width: 190px;
+  height: 190px;
+  content: '';
+  display: block;
+}
+

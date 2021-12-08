@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="100" viewBox="0 0 210 100">
+  <g id="post-08" transform="translate(-268 -1652)">
+    <g id="Arrow" transform="translate(735.828 3378.001) rotate(-180)">
+      <path id="Path_173" data-name="Path 173" d="M-16033.335-10442.239h-4.285l5,5.489,5-5.489Z" transform="translate(-10085.59 17720.621) rotate(90)" fill="#8495c2" stroke="#8495c2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_13" data-name="Line 13" x2="17" transform="translate(357.5 1688)" fill="none" stroke="#8495c2" stroke-linecap="round" stroke-width="4"/>
+    </g>
+    <g id="Group_99" data-name="Group 99" transform="translate(392.79 1652)">
+      <rect id="Rectangle_437" data-name="Rectangle 437" width="85" height="100" rx="2" transform="translate(0.21 0)" fill="#3c50e0"/>
+      <g id="Group_91" data-name="Group 91" transform="translate(6.332 15.306)">
+        <rect id="Rectangle_439" data-name="Rectangle 439" width="63" height="10" rx="1" transform="translate(4.878 32.694)" fill="#fff" opacity="0.9"/>
+        <g id="Error">
+          <rect id="Rectangle_474" data-name="Rectangle 474" width="60" height="12" rx="1" transform="translate(7.878 14.693)" fill="#fff"/>
+          <rect id="Rectangle_476" data-name="Rectangle 476" width="53" height="4" rx="1" transform="translate(11.878 18.693)" fill="#8495c2" opacity="0.8"/>
+          <path id="Rectangle_475" data-name="Rectangle 475" d="M1,0H4A0,0,0,0,1,4,0V12a0,0,0,0,1,0,0H1a1,1,0,0,1-1-1V1A1,1,0,0,1,1,0Z" transform="translate(4.878 14.693)" fill="#ff5670"/>
+        </g>
+        <rect id="Rectangle_468" data-name="Rectangle 468" width="63" height="10" rx="1" transform="translate(4.878 47.694)" fill="#fff" opacity="0.9"/>
+        <rect id="Rectangle_441" data-name="Rectangle 441" width="48" height="13" rx="1" transform="translate(11.878 63.694)" fill="#ff5670"/>
+        <rect id="Rectangle_438" data-name="Rectangle 438" width="15" height="15" rx="4" transform="translate(28.878 -7.306)" fill="#ff5670"/>
+      </g>
+    </g>
+    <rect id="Rectangle_485" data-name="Rectangle 485" width="85" height="100" rx="2" transform="translate(268 1652)" fill="#ebedfc"/>
+    <g id="Rectangle_477" data-name="Rectangle 477" transform="translate(274 1674)" fill="#fff" stroke="rgba(132,149,194,0.42)" stroke-width="1" opacity="0.8">
+      <rect width="72" height="14" rx="1" stroke="none"/>
+      <rect x="0.5" y="0.5" width="71" height="13" rx="0.5" fill="none"/>
+    </g>
+    <g id="Rectangle_478" data-name="Rectangle 478" transform="translate(274 1692)" fill="#fff" stroke="rgba(132,149,194,0.42)" stroke-width="1" opacity="0.8">
+      <rect width="72" height="14" rx="1" stroke="none"/>
+      <rect x="0.5" y="0.5" width="71" height="13" rx="0.5" fill="none"/>
+    </g>
+    <g id="Rectangle_479" data-name="Rectangle 479" transform="translate(274 1710)" fill="#fff" stroke="rgba(132,149,194,0.42)" stroke-width="1" opacity="0.8">
+      <rect width="72" height="14" rx="1" stroke="none"/>
+      <rect x="0.5" y="0.5" width="71" height="13" rx="0.5" fill="none"/>
+    </g>
+    <g id="Rectangle_480" data-name="Rectangle 480" transform="translate(274 1728)" fill="#fff" stroke="rgba(132,149,194,0.42)" stroke-width="1" opacity="0.8">
+      <rect width="72" height="14" rx="1" stroke="none"/>
+      <rect x="0.5" y="0.5" width="71" height="13" rx="0.5" fill="none"/>
+    </g>
+    <path id="Path_628" data-name="Path 628" d="M4.6-4.832V-5.6H.728V0H4.6V-.768H1.568V-2.536H4.232V-3.3H1.568V-4.832Zm3.1.664a1.444,1.444,0,0,0-1.176.576v-.48h-.8V0h.8V-2.736a1.283,1.283,0,0,1,1.16-.688,1.68,1.68,0,0,1,.384.048l.056-.736A1.672,1.672,0,0,0,7.7-4.168Zm3.184,0A1.444,1.444,0,0,0,9.7-3.592v-.48H8.9V0h.8V-2.736a1.283,1.283,0,0,1,1.16-.688,1.68,1.68,0,0,1,.384.048l.056-.736A1.672,1.672,0,0,0,10.88-4.168ZM13.848.1A2.084,2.084,0,0,0,15.992-2.04a2.082,2.082,0,0,0-2.144-2.128A2.084,2.084,0,0,0,11.7-2.04,2.086,2.086,0,0,0,13.848.1Zm0-.728A1.327,1.327,0,0,1,12.512-2.04a1.325,1.325,0,0,1,1.336-1.4,1.319,1.319,0,0,1,1.328,1.4A1.321,1.321,0,0,1,13.848-.632Zm5.1-3.536a1.444,1.444,0,0,0-1.176.576v-.48h-.8V0h.8V-2.736a1.283,1.283,0,0,1,1.16-.688,1.68,1.68,0,0,1,.384.048l.056-.736A1.672,1.672,0,0,0,18.944-4.168ZM27.52-5.6,25.4-1.232,23.272-5.6h-1V0H23.1V-4.208L25.072-.16h.656L27.7-4.208V0h.832V-5.6Zm6.256,3.424a1.9,1.9,0,0,0-2-1.992,2.086,2.086,0,0,0-2.168,2.16A2.029,2.029,0,0,0,31.776.1a2.2,2.2,0,0,0,1.872-.92l-.568-.432A1.533,1.533,0,0,1,31.792-.6a1.279,1.279,0,0,1-1.376-1.248h3.336A2.033,2.033,0,0,0,33.776-2.176Zm-2-1.312a1.106,1.106,0,0,1,1.192.992h-2.5A1.256,1.256,0,0,1,31.776-3.488ZM36.28.1C37.3.1,37.9-.424,37.9-1.192c0-.576-.32-.952-1.152-1.136l-.7-.16c-.52-.12-.664-.264-.664-.48,0-.3.264-.5.76-.5a1.786,1.786,0,0,1,1.224.488l.488-.56a2.323,2.323,0,0,0-1.664-.624c-.976,0-1.592.512-1.592,1.256,0,.56.344.92,1.16,1.1l.712.16c.488.112.648.288.648.512,0,.3-.3.528-.808.528a2.1,2.1,0,0,1-1.36-.528l-.464.6A2.687,2.687,0,0,0,36.28.1Zm4.056,0c1.024,0,1.616-.52,1.616-1.288,0-.576-.32-.952-1.152-1.136l-.7-.16c-.52-.12-.664-.264-.664-.48,0-.3.264-.5.76-.5a1.786,1.786,0,0,1,1.224.488l.488-.56a2.323,2.323,0,0,0-1.664-.624c-.976,0-1.592.512-1.592,1.256,0,.56.344.92,1.16,1.1l.712.16c.488.112.648.288.648.512,0,.3-.3.528-.808.528A2.1,2.1,0,0,1,39-1.136l-.464.6A2.687,2.687,0,0,0,40.336.1Zm5.6-4.168v.344a1.882,1.882,0,0,0-1.248-.44A2.061,2.061,0,0,0,42.64-2.04,2.063,2.063,0,0,0,44.688.1a1.847,1.847,0,0,0,1.248-.448V0h.8V-4.072ZM44.792-.632A1.323,1.323,0,0,1,43.456-2.04a1.32,1.32,0,0,1,1.336-1.4,1.472,1.472,0,0,1,1.144.536v1.736A1.472,1.472,0,0,1,44.792-.632ZM51-4.072v.352a1.841,1.841,0,0,0-1.24-.448A2.047,2.047,0,0,0,47.7-2.08,2.046,2.046,0,0,0,49.752.008,1.847,1.847,0,0,0,51-.44v.368a1.119,1.119,0,0,1-1.256,1.184A2.161,2.161,0,0,1,48.3.5l-.488.584a2.7,2.7,0,0,0,1.944.752A1.833,1.833,0,0,0,51.8-.072v-4ZM49.848-.72A1.308,1.308,0,0,1,48.52-2.08a1.308,1.308,0,0,1,1.328-1.36A1.485,1.485,0,0,1,51-2.9v1.648A1.512,1.512,0,0,1,49.848-.72Zm7.088-1.456a1.9,1.9,0,0,0-2-1.992,2.086,2.086,0,0,0-2.168,2.16A2.029,2.029,0,0,0,54.936.1a2.2,2.2,0,0,0,1.872-.92l-.568-.432A1.533,1.533,0,0,1,54.952-.6a1.279,1.279,0,0,1-1.376-1.248h3.336A2.033,2.033,0,0,0,56.936-2.176Zm-2-1.312a1.106,1.106,0,0,1,1.192.992h-2.5A1.256,1.256,0,0,1,54.936-3.488ZM59.44.1c1.024,0,1.616-.52,1.616-1.288,0-.576-.32-.952-1.152-1.136l-.7-.16c-.52-.12-.664-.264-.664-.48,0-.3.264-.5.76-.5a1.786,1.786,0,0,1,1.224.488l.488-.56a2.323,2.323,0,0,0-1.664-.624c-.976,0-1.592.512-1.592,1.256,0,.56.344.92,1.16,1.1l.712.16c.488.112.648.288.648.512,0,.3-.3.528-.808.528a2.1,2.1,0,0,1-1.36-.528l-.464.6A2.687,2.687,0,0,0,59.44.1Z" transform="translate(274 1667)" fill="#8495c2"/>
+    <rect id="Rectangle_481" data-name="Rectangle 481" width="38" height="4" rx="1" transform="translate(280 1679)" fill="#8495c2" opacity="0.8"/>
+    <rect id="Rectangle_482" data-name="Rectangle 482" width="53" height="4" rx="1" transform="translate(280 1697)" fill="#8495c2" opacity="0.8"/>
+    <rect id="Rectangle_483" data-name="Rectangle 483" width="46" height="4" rx="1" transform="translate(280 1715)" fill="#8495c2" opacity="0.8"/>
+    <rect id="Rectangle_484" data-name="Rectangle 484" width="56" height="4" rx="1" transform="translate(280 1733)" fill="#8495c2" opacity="0.8"/>
+  </g>
+</svg>

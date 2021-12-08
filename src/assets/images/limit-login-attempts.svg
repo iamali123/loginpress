@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="46.25" viewBox="0 0 40 46.25">
+  <g id="Icon" transform="translate(-641 -502.75)">
+    <rect id="Rectangle_416" data-name="Rectangle 416" width="12" height="2" rx="1" transform="translate(669 547)" fill="#3c50e0"/>
+    <g id="attempt_1" data-name="attempt 1">
+      <rect id="Rectangle_414" data-name="Rectangle 414" width="12" height="2" rx="1" transform="translate(641 547)" fill="#3c50e0"/>
+      <rect id="Rectangle_418" data-name="Rectangle 418" width="12" height="2" rx="1" transform="translate(643.465 536.05) rotate(45)" fill="#ff5570"/>
+      <rect id="Rectangle_417" data-name="Rectangle 417" width="12" height="2" rx="1" transform="translate(642.05 544.535) rotate(-45)" fill="#ff5570"/>
+    </g>
+    <g id="Attempt_2" data-name="Attempt 2">
+      <rect id="Rectangle_419" data-name="Rectangle 419" width="12" height="2" rx="1" transform="translate(657.465 536.05) rotate(45)" fill="#ff5570"/>
+      <rect id="Rectangle_420" data-name="Rectangle 420" width="12" height="2" rx="1" transform="translate(656.05 544.535) rotate(-45)" fill="#ff5570"/>
+      <rect id="Rectangle_415" data-name="Rectangle 415" width="12" height="2" rx="1" transform="translate(655 547)" fill="#3c50e0"/>
+    </g>
+    <path id="Path_805" data-name="Path 805" d="M7.563-9.625H6.531v-3.094A6.539,6.539,0,0,0,0-19.25a6.539,6.539,0,0,0-6.531,6.531v3.094H-7.562A2.063,2.063,0,0,0-9.625-7.562V.688A2.063,2.063,0,0,0-7.562,2.75H7.563A2.063,2.063,0,0,0,9.625.688v-8.25A2.063,2.063,0,0,0,7.563-9.625Zm-4.469,0H-3.094v-3.094A3.1,3.1,0,0,1,0-15.812a3.1,3.1,0,0,1,3.094,3.094Z" transform="translate(661 522)" fill="#3c50e0"/>
+  </g>
+</svg>

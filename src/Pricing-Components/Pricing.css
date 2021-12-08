@@ -1,0 +1,129 @@
+/* Pricing Section */
+.affordable-pricing.pricing-title-bar{
+    padding: 95px 0 114px;
+}
+.pricing-title-bar .pricing-before{
+    top: -21px;
+    left: -18px;
+}
+.pricing-title-bar .pricing-after{
+    right: -135px;
+    bottom: 6px;
+}
+.pricing-title-bar .packages-before{
+    max-width: 500px;
+    left: -101px;
+    bottom: -69px;
+}
+.pricing-title-bar .packages-before svg{
+    width: 500px;
+}
+.pricing-title-bar .pricing-package-top {
+    padding: 40px 35px 20px;
+} 
+.pricing-head h1 {
+    color: var(--primary-purple);
+    margin-bottom: 37px;
+}
+.package-details {
+    padding: 20px 20px 28px;
+    position: relative;
+}
+.package-details:before {
+    content: "";
+    width: 85%;
+    height: 1px;
+    position: absolute;
+    top: 0;
+    left: 8.8%;
+    margin: 0 auto;
+    /* background: url(../../img/dashed-border-purple.svg) center; */
+	background-image: linear-gradient(to right, var(--secondary-purple-light) 33%, rgba(255,255,255,0) 0%);
+	background-position: center;
+	background-size: 11px 1px;
+	background-repeat: repeat-x;
+}
+.featured-package .package-details:before{
+	/* background: url(../../img/dashed-border-white.svg) center; */
+	background-image: linear-gradient(to right, var(--white) 33%, rgba(255,255,255,0) 0%);
+}
+.package-features li:before {
+    display: none;
+}
+.package-features li {
+    font-size: 14px;
+    line-height: 2.43;
+    color: var(--secondary-purple-light);
+    margin-bottom: 3px;
+}
+.featured-package .package-features li {
+    color: var(--white);
+}
+.pricing-faq .all-questions-before{
+    left: -125px;
+    top: 74px;
+    max-width: 260px;
+}
+.pricing-faq .all-questions-after{
+    right: -75px;
+    bottom: 200px;
+}
+
+
+@media screen and (max-width: 1400px) {
+    .pricing-title-bar .packages-before{
+        left: -15px;
+        bottom: -50px;
+    }
+    .pricing-title-bar .packages-before svg{
+        max-width: 50vw;
+    }
+}
+@media screen and (max-width: 1200px) {
+    .pricing-title-bar .packages-before{
+        left: 0;
+    }
+    .pricing-faq .all-questions-before {
+        max-width: 20vw;
+        left: -7vw;
+    }
+}
+@media screen and (max-width: 1024px) {
+    .affordable-pricing.pricing-title-bar{
+        padding: 65px 0;
+    }
+    .pricing-title-bar .pricing-before {
+        top: -21px;
+        left:  0;
+    }
+    .pricing-title-bar .packages-before{
+        left: 0;
+        bottom: -25px  ;
+    }
+    .pricing-title-bar .packages-before svg{
+        max-width: 70vw;
+    }
+}
+@media screen and (max-width: 900px) {
+    .pricing-faq .all-questions-before {
+        max-width: 30vw;
+        left: 0;
+    }
+    .pricing-faq .all-questions-after{
+        right: 0;
+        bottom: 200px;
+    }
+}
+@media screen and (max-width: 768px) {
+    .affordable-pricing.pricing-title-bar{
+        padding: 50px 0;
+    }
+    .pricing-head h1 {
+        margin-bottom: 20px;
+    }
+}
+@media screen and (max-width: 600px) {
+    .affordable-pricing.pricing-title-bar{
+        padding: 45px 0;
+    }
+}

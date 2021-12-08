@@ -1,0 +1,215 @@
+.changelog{
+    background-color: var(--secondary-black-light2);
+    padding: 95px 0 100px;
+}
+.changelog-head {
+    max-width: 835px;
+    margin: 0 auto;
+    text-align: center;
+}
+.changelog-head h1{
+    color: var(--primary-purple);
+    margin-bottom: 37px;
+}
+.chnngelog-info {
+    position: relative;
+    margin-bottom: 95px;
+}
+.changelog-desc p {
+    color: var(--secondary-purple-light);
+}
+.changelog-info-before {
+    position: absolute;
+    left: 143px;
+    top: -5px;
+}
+.changelog-info-after {
+    position: absolute;
+    right: 39px;
+    bottom: 20px;
+}
+.all-changelogs {
+    position: relative;
+    padding-top: 52px;
+}
+.all-changelogs-before {
+    position: absolute;
+    top: 0;
+    left: -29px;
+}
+.all-changelogs-middle {
+    position: absolute;
+    bottom: 82px;
+    left: 4px;
+}
+.all-changelogs-after {
+    position: absolute;
+    right: -27px;
+    top: 633px;
+}
+.changelog-list .single-changelog {
+    background-color: var(--white);
+    border-radius: 5px;
+    position: relative;
+    padding: 17px 20px 11px;
+    max-width: 970px;
+    margin: 0 auto 20px;
+    position: relative;
+    overflow: hidden;
+}
+.changelog-date {
+    display: flex;
+    align-items: center;
+    margin-bottom: 2px;
+}
+.single-changelog .version {
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 1.467;
+    color: var(--primary-purple);
+    margin-right: 11px;
+}
+.single-changelog .date {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 2.43;
+	margin-right: 11px;
+}
+.single-changelog .tag {
+    display: inline-flex;
+    /* min-width: 168px; */
+    min-height: 27px;
+    font-size: 14px;
+    line-height: 0.86;
+    color: var(--white);
+    background-color: var(--primary-blue);
+    /* position: absolute; */
+    justify-content: center;
+    align-items: center;
+    border-radius: 3px;
+    /* right: -51px;
+    top: 11px; */
+    /* transform: rotate(30deg) */
+	padding: 6px 12px;
+}
+.single-changelog .tag.pro {
+    background-color: var(--primary-green);
+}
+.what-change .label {
+    display: inline-block;
+    color: var(--primary-purple);
+    min-width: 110px;
+    /* min-height: 23px; */
+    text-align: center;
+    border-radius: 3px;
+    padding: 7px 15px 3px;
+    font-size: 12px;
+    margin-bottom: 9px;
+}
+.what-change .label.bug {
+    background-color: rgba(255, 86, 111, 0.5);
+}
+.what-change .label.new {
+    background-color: rgba(56, 192, 115, 0.5);
+}
+.what-change .label.compatibility {
+    background-color: rgba(7, 0, 59, 0.5);
+    color: var(--white);
+}
+.what-change .label.enhancement {
+    background-color: rgba(60, 79, 224, 0.5);
+    color: var(--white);
+}
+.what-change .label.launched {
+    background-color: rgba(68, 68, 68, 0.5);
+    color: var(--white);
+}
+
+.what-change{
+    position: relative;
+    padding: 21px 0 9px;
+}
+.what-change p {
+    font-size: 14px;
+    line-height: 2.43;
+    margin-bottom: 0;
+}
+.single-changelog .what-change:not(:first-child):before {
+    content: "";
+    width: 100%;
+    height: 1px;
+    position: absolute;
+    top: 0;
+    /* background: url(../img/dashed-border-purple.svg); */
+	background-image: linear-gradient(to right, var(--secondary-purple-light) 33%, rgba(255,255,255,0) 0%);
+    /* background-position: center; */
+    background-size: 11px 1px;
+    background-repeat: repeat-x;
+}
+.more-changelogs {
+    text-align: center;
+    margin-top: 72px;
+}
+.cloader {
+    top: 50%;
+    right: 15px;
+    position: absolute;
+    transform: translateY(-50%);
+  }
+  
+  .cloading {
+    border: 2px solid #FDB400;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    border-top-color: #ff5670;
+    border-left-color: #38C073;
+    animation: spin 1s infinite ease-in;
+  }
+  
+  @keyframes spin {
+	0% {
+	  transform: rotate(0deg);
+	}
+  
+	100% {
+	  transform: rotate(360deg);
+	}
+}
+@media screen and (max-width: 1024px) {
+    .changelog{
+        padding: 75px 0;
+    }
+    .changelog-head h1{
+        margin-bottom: 20px;
+    }
+    .chnngelog-info{
+        margin-bottom: 25px;
+    }
+    .more-changelogs{
+        margin-top: 50px;
+    }
+}
+@media screen and (max-width: 768px) {
+    .changelog{
+        padding: 60px 0;
+    }
+    .changelog-head h1{
+        margin-bottom: 15px;
+    }
+    .chnngelog-info{
+        margin-bottom: 20px;
+    }
+    .more-changelogs{
+        margin-top: 30px;
+    }
+}
+@media screen and (max-width: 600px) {
+    .changelog-info-before {
+        left: 0;
+    }
+    .changelog-info-after {
+        right: 0;
+        bottom: -10px;
+    }
+}

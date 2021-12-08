@@ -1,0 +1,30 @@
+.comments-wrapper h2{
+	margin-bottom: 12px;
+}
+.comments-wrapper .h4{
+    margin: 0;
+}
+.comments-wrapper .h6{
+	font-size: 18px;
+}
+.comments-form form{
+	display: flex;
+    flex-wrap: wrap;
+	margin: 0 -15px;
+}
+.comments-wrapper .single-comment .h6{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    text-align: left;
+    color: #515e81;
+    position: relative;
+    cursor: pointer;
+    margin-bottom: 5px;
+}
+.single-comment{
+    margin-bottom: 25px;
+}
+.single-comment .lg-doc-content p{
+    margin-bottom: 0;
+}

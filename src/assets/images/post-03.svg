@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="210" height="102" viewBox="0 0 210 102">
+  <defs>
+    <filter id="Rectangle_460" x="91" y="0" width="94" height="74" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-color="#3c50e0" flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="post-03" transform="translate(-312 -1650)">
+    <g id="login_screen" data-name="login screen">
+      <rect id="Rectangle_436" data-name="Rectangle 436" width="122" height="100" rx="3" transform="translate(312 1652)" fill="#c3c9f8"/>
+      <g id="Group_92" data-name="Group 92" transform="translate(0 2)">
+        <rect id="Rectangle_437" data-name="Rectangle 437" width="40" height="55" rx="2" transform="translate(353 1672)" fill="#3c50e0"/>
+        <g id="Group_91" data-name="Group 91">
+          <rect id="Rectangle_439" data-name="Rectangle 439" width="30" height="6" rx="1" transform="translate(358 1694)" fill="#fff" opacity="0.9"/>
+          <rect id="Rectangle_440" data-name="Rectangle 440" width="30" height="6" rx="1" transform="translate(358 1704)" fill="#fff" opacity="0.9"/>
+          <rect id="Rectangle_441" data-name="Rectangle 441" width="16" height="7" rx="1" transform="translate(365 1714)" fill="#ff5670"/>
+          <rect id="Rectangle_438" data-name="Rectangle 438" width="18" height="12" rx="1" transform="translate(364 1678)" fill="#fff"/>
+          <g id="LoginPress-logo-divid-logo" transform="translate(369.766 1676.905)">
+            <path id="Union_9" data-name="Union 9" d="M3.072,5.024l.517-.516H.825A.826.826,0,0,1,0,3.682V0H1.378V3.13h2.21l-.517-.517.976-.972L5.333,2.924h0l.285.285.219.219a.551.551,0,0,1,0,.784l-.3.3h0l-.2.2h0L4.048,6Z" transform="translate(0.234 4.095)" fill="#ff5670"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Logo_size" data-name="Logo size" transform="translate(-3)">
+      <g transform="matrix(1, 0, 0, 1, 315, 1650)" filter="url(#Rectangle_460)">
+        <rect id="Rectangle_460-2" data-name="Rectangle 460" width="70" height="50" rx="3" transform="translate(103 7)" fill="#fff"/>
+      </g>
+      <g id="Horizontal_line" data-name="Horizontal line" transform="translate(44)">
+        <line id="Line_14" data-name="Line 14" x2="66" transform="translate(376 1714)" fill="none" stroke="#8495c2" stroke-linecap="round" stroke-width="2"/>
+        <line id="Line_15" data-name="Line 15" y2="4" transform="translate(375 1712)" fill="none" stroke="#8495c2" stroke-linecap="round" stroke-width="2"/>
+        <line id="Line_16" data-name="Line 16" y2="4" transform="translate(443 1712)" fill="none" stroke="#8495c2" stroke-linecap="round" stroke-width="2"/>
+        <path id="Path_626" data-name="Path 626" d="M.35-9.8v1.6H5.194L1.246,0H3.164L7.14-8.4V-9.8ZM12.1.168c2.478,0,4.032-1.848,4.032-5.068S14.574-9.968,12.1-9.968,8.064-8.12,8.064-4.9,9.618.168,12.1.168Zm0-1.6c-1.428,0-2.254-1.078-2.254-3.472s.826-3.472,2.254-3.472S14.364-7.294,14.364-4.9,13.524-1.428,12.1-1.428Z" transform="translate(401 1731)" fill="#8495c2"/>
+      </g>
+      <g id="Vertical_lines" data-name="Vertical lines" transform="translate(63)">
+        <line id="Line_18" data-name="Line 18" y2="45" transform="translate(432 1660)" fill="none" stroke="#8495c2" stroke-linecap="round" stroke-width="2"/>
+        <line id="Line_19" data-name="Line 19" y2="4" transform="translate(434 1659) rotate(90)" fill="none" stroke="#8495c2" stroke-linecap="round" stroke-width="2"/>
+        <line id="Line_17" data-name="Line 17" y2="4" transform="translate(434 1706) rotate(90)" fill="none" stroke="#8495c2" stroke-linecap="round" stroke-width="2"/>
+        <path id="Path_627" data-name="Path 627" d="M4.4-6.258a3.758,3.758,0,0,0-1.722.378L2.744-8.2h4.34V-9.8H1.19L1.008-4.844l1.274.7a3.043,3.043,0,0,1,1.848-.6A1.608,1.608,0,0,1,5.936-3.108c0,1.022-.756,1.694-2.03,1.694A3.438,3.438,0,0,1,1.484-2.422L.462-1.19A4.8,4.8,0,0,0,3.934.168c2.268,0,3.738-1.26,3.738-3.276A3,3,0,0,0,4.4-6.258ZM12.908.168C15.386.168,16.94-1.68,16.94-4.9s-1.554-5.068-4.032-5.068S8.876-8.12,8.876-4.9,10.43.168,12.908.168Zm0-1.6c-1.428,0-2.254-1.078-2.254-3.472s.826-3.472,2.254-3.472S15.176-7.294,15.176-4.9,14.336-1.428,12.908-1.428Z" transform="translate(438 1686)" fill="#8495c2"/>
+      </g>
+      <g id="LoginPress-logo-divid-logo-2" data-name="LoginPress-logo-divid-logo" transform="translate(439.675 1664.816)">
+        <path id="Union_9-2" data-name="Union 9" d="M13.313,21.771l2.238-2.238H3.574A3.581,3.581,0,0,1,0,15.957V0H5.972V13.563h9.579L13.313,11.32l4.229-4.212,5.565,5.563h0l1.236,1.236.947.948a2.387,2.387,0,0,1,0,3.4L23.994,19.55h0l-.873.863.008.006L17.542,26Z" transform="translate(0.324 4.184)" fill="#ff5670"/>
+      </g>
+    </g>
+    <g id="Arrow" transform="translate(43)">
+      <path id="Path_173" data-name="Path 173" d="M-16035.048-10442.238h-2.572l3,3.294,3-3.294Z" transform="translate(-10085.59 17720.621) rotate(90)" fill="#8495c2" stroke="#8495c2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_13" data-name="Line 13" x2="12" transform="translate(356.5 1686)" fill="none" stroke="#8495c2" stroke-linecap="round" stroke-width="2"/>
+    </g>
+    <g id="Logo_wireframe" data-name="Logo wireframe">
+      <rect id="Rectangle_461" data-name="Rectangle 461" width="41" height="31" rx="3" transform="translate(481 1721)" fill="#c3c9f8"/>
+      <g id="Grid_lines" data-name="Grid lines" transform="translate(47 8)">
+        <line id="Line_20" data-name="Line 20" x2="35" transform="translate(437 1719)" fill="none" stroke="#8495c2" stroke-linecap="round" stroke-width="1" opacity="0.3"/>
+        <line id="Line_21" data-name="Line 21" x2="35" transform="translate(437 1738)" fill="none" stroke="#8495c2" stroke-linecap="round" stroke-width="1" opacity="0.3"/>
+        <line id="Line_22" data-name="Line 22" x2="26" transform="translate(465 1716) rotate(90)" fill="none" stroke="#8495c2" stroke-linecap="round" stroke-width="1" opacity="0.3"/>
+        <line id="Line_23" data-name="Line 23" x2="26" transform="translate(446 1716) rotate(90)" fill="none" stroke="#8495c2" stroke-linecap="round" stroke-width="1" opacity="0.3"/>
+      </g>
+      <g id="LoginPress-logo-divid-logo-3" data-name="LoginPress-logo-divid-logo" transform="translate(493.588 1727.588)">
+        <path id="Union_9-3" data-name="Union 9" d="M8.7,14.234l1.465-1.465H2.337A2.339,2.339,0,0,1,0,10.432V0H3.9V8.866h6.266L8.7,7.4,11.47,4.648l3.41,3.41h0l.808.809h0l.845.847a1.563,1.563,0,0,1,0,2.222l-.845.847h-.005l-.571.564.006,0L11.47,17Z" transform="translate(0.412 0.412)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

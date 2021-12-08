@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="210" height="102" viewBox="0 0 210 102">
+  <defs>
+    <filter id="Rectangle_462" x="54" y="9" width="119" height="93" filterUnits="userSpaceOnUse">
+      <feOffset dy="-5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-color="#3c50e0" flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="icon" transform="translate(-268 -1652)">
+    <g id="Bg" transform="translate(115 8)" opacity="0.5">
+      <rect id="Rectangle_462-2" data-name="Rectangle 462" width="95" height="69" rx="2" transform="translate(268 1652)" fill="#c3c9f8"/>
+      <rect id="Rectangle_463" data-name="Rectangle 463" width="81" height="55" rx="2" transform="translate(275 1659)" fill="#eceefd"/>
+      <rect id="Rectangle_464" data-name="Rectangle 464" width="14" height="14" rx="7" transform="translate(319 1680)" fill="#ff5670"/>
+      <path id="Path_174" data-name="Path 174" d="M59.473,20.3,42.222,37.484l-24.4-24.9L0,30.319V52.532a2.055,2.055,0,0,0,2.059,2.052H78.941A2.055,2.055,0,0,0,81,52.532V41.98Z" transform="translate(275 1659.416)" fill="#3c50e0"/>
+    </g>
+    <g id="Bg-2" data-name="Bg" opacity="0.75">
+      <rect id="Rectangle_462-3" data-name="Rectangle 462" width="95" height="69" rx="2" transform="translate(268 1652)" fill="#c3c9f8"/>
+      <rect id="Rectangle_463-2" data-name="Rectangle 463" width="81" height="55" rx="2" transform="translate(275 1659)" fill="#eceefd"/>
+      <path id="Path_174-2" data-name="Path 174" d="M59.473,20.3,42.222,37.484l-24.4-24.9L0,30.319V52.532a2.055,2.055,0,0,0,2.059,2.052H78.941A2.055,2.055,0,0,0,81,52.532V41.98Z" transform="translate(275 1659.416)" fill="#3c50e0"/>
+      <rect id="Rectangle_464-2" data-name="Rectangle 464" width="14" height="14" rx="7" transform="translate(308 1666)" fill="#ff5670"/>
+      <rect id="Rectangle_516" data-name="Rectangle 516" width="14" height="14" rx="7" transform="translate(311 1663)" fill="#eceefd"/>
+    </g>
+    <g id="Bg-3" data-name="Bg" transform="translate(66 26)">
+      <g transform="matrix(1, 0, 0, 1, 202, 1626)" filter="url(#Rectangle_462)">
+        <rect id="Rectangle_462-4" data-name="Rectangle 462" width="95" height="69" rx="2" transform="translate(66 26)" fill="#c3c9f8"/>
+      </g>
+      <rect id="Rectangle_463-3" data-name="Rectangle 463" width="81" height="55" rx="2" transform="translate(275 1659)" fill="#eceefd"/>
+      <path id="Path_174-3" data-name="Path 174" d="M59.473,20.3,42.222,37.484l-24.4-24.9L0,30.319V52.532a2.055,2.055,0,0,0,2.059,2.052H78.941A2.055,2.055,0,0,0,81,52.532V41.98Z" transform="translate(275 1659.416)" fill="#3c50e0"/>
+      <rect id="Rectangle_464-3" data-name="Rectangle 464" width="14" height="14" rx="7" transform="translate(316 1663)" fill="#ff5670"/>
+    </g>
+  </g>
+</svg>

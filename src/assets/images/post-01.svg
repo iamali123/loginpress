@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="100" viewBox="0 0 210 100">
+  <g id="Icon" transform="translate(-268 -1652)">
+    <rect id="Rectangle_444" data-name="Rectangle 444" width="122" height="60" rx="3" transform="translate(356 1672)" fill="#eceefd"/>
+    <rect id="Rectangle_445" data-name="Rectangle 445" width="122" height="60" rx="3" transform="translate(268 1672)" fill="#eceefd"/>
+    <rect id="Rectangle_442" data-name="Rectangle 442" width="122" height="82" rx="3" transform="translate(334 1661)" fill="#e3e6fc"/>
+    <rect id="Rectangle_443" data-name="Rectangle 443" width="122" height="82" rx="3" transform="translate(290 1661)" fill="#e3e6fc"/>
+    <g id="Group_97" data-name="Group 97">
+      <rect id="Rectangle_436" data-name="Rectangle 436" width="122" height="100" rx="3" transform="translate(312 1652)" fill="#c3c9f8"/>
+      <g id="Group_92" data-name="Group 92" transform="translate(0 2)">
+        <rect id="Rectangle_437" data-name="Rectangle 437" width="40" height="55" rx="2" transform="translate(353 1672)" fill="#3c50e0"/>
+        <g id="Group_91" data-name="Group 91">
+          <rect id="Rectangle_439" data-name="Rectangle 439" width="30" height="6" rx="1" transform="translate(358 1694)" fill="#fff" opacity="0.9"/>
+          <rect id="Rectangle_440" data-name="Rectangle 440" width="30" height="6" rx="1" transform="translate(358 1704)" fill="#fff" opacity="0.9"/>
+          <rect id="Rectangle_441" data-name="Rectangle 441" width="16" height="7" rx="1" transform="translate(365 1714)" fill="#ff5670"/>
+          <rect id="Rectangle_438" data-name="Rectangle 438" width="12" height="12" rx="6" transform="translate(367 1678)" fill="#ff5670"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
